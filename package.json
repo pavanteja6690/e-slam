@@ -1,0 +1,25 @@
+{
+  "name": "e-slam",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "blockstack": "^19.3.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahithi Siripuram",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahithiSiripuram/e-slam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SahithiSiripuram/e-slam/issues"
+  },
+  "homepage": "https://github.com/SahithiSiripuram/e-slam#readme",
+  "description": ""
+}
